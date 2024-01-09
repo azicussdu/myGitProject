@@ -6,5 +6,11 @@ public class Main {
         System.out.println("My third line");
         System.out.println("My forth line");
         System.out.println("Polinas fifth code");
+
+        showDocs();
+    }
+
+    public static void showDocs(){
+        System.out.println("Docs now");
     }
 }
