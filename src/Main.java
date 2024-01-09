@@ -7,4 +7,8 @@ public class Main {
         System.out.println("My forth line");
         System.out.println("Polinas fifth code");
     }
+
+    public static void showDocs(){
+        System.out.println("Docs now");
+    }
 }
